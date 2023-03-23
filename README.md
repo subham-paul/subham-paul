@@ -27,7 +27,7 @@
 <a href="https://www.leetcode.com/subhampaul456/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subhampaul456/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@subham496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@subham496" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subhampaul456/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/subhampaul456/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Subham (P)#9057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Subham (P)#9057" height="30" width="40" /></a>
+<a href="https://discord.gg/SUBHAM PAUL#9057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SUBHAM PAUL#9057" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

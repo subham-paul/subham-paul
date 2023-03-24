@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamsubhampaul" target="_blank"><img src="https://img.shields.io/twitter/follow/iamsubhampaul?logo=twitter&style=for-the-badge" alt="iamsubhampaul" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **subhampaul456@gmail.com**
 
